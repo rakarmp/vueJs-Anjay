@@ -1,7 +1,5 @@
-<script>
-export default {
+<script setup>
 
-}
 </script>
 
 <template>
@@ -17,10 +15,10 @@ export default {
           <a class="nav-link active" aria-current="page" href="#"></a>
         </li>
       </ul>
-      <form class="d-flex">
-        <input id="search1" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <!-- <form class="d-flex">
+        <input id="search1" class="form-control me-2"type="search" placeholder="Search" aria-label="Search">
         <button id="search" class="btn btn-outline-success" type="submit">Telusuri</button>
-      </form>
+      </form> -->
     </div>
   </div>
 </nav>

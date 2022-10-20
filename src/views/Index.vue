@@ -25,7 +25,7 @@ import Footer from '../components/Footer.vue';
     -webkit-box-shadow: 5px 6px 14px 4px rgba(0,0,0,0.2); 
 box-shadow: 5px 6px 14px 4px rgba(0,0,0,0.2);
 border-radius: 10px;
-margin-top: 10px;
+margin-top: 30px;
 }
 body {
     background-color: lightgray;

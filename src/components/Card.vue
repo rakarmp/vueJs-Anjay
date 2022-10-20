@@ -33,6 +33,18 @@ export default {
           penulis: 'Samsudin X HoohTenan',
           created: '19-10-2022'
         },
+        {
+          id: 6,
+          katanya: 'Sedang Meyakinkan Diri Bahwa Semuanya Bisa Dilewatin Sendirian',
+          penulis: 'SHarapan Duls',
+          created: '20-10-2022'
+        },
+        {
+          id: 7,
+          katanya: 'Kamu Terlalu Mengharapkan Dia, Sedangkan Dia Mengharapkan Orang Lain.',
+          penulis: 'VueAnjayXSolorunXNetify',
+          created: '20-10-2022'
+        },
       ]
     }
   }

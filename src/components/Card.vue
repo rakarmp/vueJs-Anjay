@@ -59,6 +59,27 @@ export default {
            penulis: 'VueAnjayXSolorunXNetify',
            created: '20-10-2022'
          },
+         {
+          id: 8,
+          noUrut: '8',
+          katanya: 'Stay Strong, Stay Positive, Stay Happy',
+          penulis: 'Sipaling Stay',
+          created: '23-10-2022',
+         },
+         {
+          id: 9,
+          noUrut: '9',
+          katanya: 'Stay Private, Belajar Dari Hari - Hari Kemarin, Terlalu Sering Dibanggakan Belum Tentu Tulus.',
+          penulis: 'RakaTrust',
+          created: '23-10-2022',
+         },
+         {
+          id: 10,
+          noUrut: '10',
+          katanya: 'Terlalu Percaya, Hingga Lupa Bahwa Manusia Bisa Berubah Kapan Saja',
+          penulis: 'AdliaFjaAgustin',
+          created: '23-10-2022',
+         },
     ]
   },
   computed: {
@@ -94,7 +115,7 @@ export default {
 
 <style>
 .card {
-    margin-top: 50px;
+    margin-top: 230px;
 }
 .data-kosong {
   -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.25); 

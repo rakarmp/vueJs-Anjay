@@ -6,8 +6,8 @@
     <div class="container">
         <div class="row">
             <div id="kontent-text" class="col">
-                <h2><b><i>Quoates Random Update!</i></b></h2>
-                <p>Kumpulan <i>Quoates</i> Bijak Terbaru</p>
+                <h2><b><i>Quoates Update!</i></b></h2>
+                <p>Read, Think, Inspiration <i>Good Day</i> </p>
                 <p><b><i>Build Vue <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt=""> + Bootstrap 5 <img src="https://img.icons8.com/color/27/000000/bootstrap.png" alt=""> : Minimal Mandi :v</i></b></p>
             </div>
             <div id="kontent-gambar" class="col">

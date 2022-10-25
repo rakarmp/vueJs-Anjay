@@ -80,6 +80,20 @@ export default {
           penulis: 'AdliaFjaAgustin',
           created: '23-10-2022',
          },
+         {
+          id: 11,
+          noUrut: '11',
+          katanya: 'Kamu Bisa Mencintai Orang Lain, Tapi Tidak Bisa Mencintai Diri Sendiri',
+          penulis: 'RakaTrust',
+          created: '25-10-2022',
+         },
+         {
+          id: 12,
+          noUrut: '12',
+          katanya: 'Semangat Bukan Untuk Mencari Yang Terbaik, Tapi Untuk Mencari Yang Terbaik Dari Yang Ada',
+          penulis: 'Copilot',
+          created: '25-10-2022',
+         }
     ]
   },
   computed: {
@@ -116,6 +130,8 @@ export default {
 <style>
 .card {
     margin-top: 230px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.25); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.25);
 }
 .data-kosong {
   -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.25); 
